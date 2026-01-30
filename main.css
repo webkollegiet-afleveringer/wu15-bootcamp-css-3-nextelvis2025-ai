@@ -1,8 +1,106 @@
 * {
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
 body {
-    margin: 0;
-    padding: 0;
+    font-family: Georgia, "Times New Roman", serif;
+    background: #f5f5f5;
+    color: #111;
+    line-height: 1.6;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+ul {
+    list-style: none;
+}
+
+
+
+.FDLacrticalUl {
+    position: relative;
+    right: 290px;
+    width: 190px;
+    top: 20px;
+}
+
+.FDLacrticalimg5 {
+    position: relative;
+    bottom: 715px;
+    left: 295px;
+    height: 180px !important;
+    width: 285px !important;
+}
+
+.FDLacrticalimg6 {
+    position: relative;
+    bottom: 1030px;
+    left: 610px;
+    height: 180px !important;
+    width: 285px !important;
+}
+
+.FDLacrtical6 {
+    position: relative;
+    bottom: 1270px;
+    left: 925px;
+    width: 285px;
+}
+
+.FDLFLREP {
+    position: relative;
+    right: 290px;
+    top: 20px;
+}
+
+.FDLacrticalHH6 {
+    position: relative;
+    bottom: 710px;
+    left: 295px;
+    width: 285px;
+}
+
+.FDLacrticalHH7 {
+    position: relative;
+    bottom: 700px;
+    left: 310px;
+    width: 285px;
+}
+
+.HH8 {
+    position: relative;
+    bottom: 1020px;
+    left: 620px;
+    width: 285px;
+}
+
+.FDLacrtical7 {
+    position: relative;
+    bottom: 1170px;
+    left: 925px;
+    width: 285px;
+}
+
+.FDLacrtical8 {
+    position: relative;
+    bottom: 1170px;
+    left: 300px;
+    width: 285px;
+}
+
+.FDLacrtical9 {
+    position: relative;
+    bottom: 1170px;
+    right: 325px;
+    width: 285px;
 }
