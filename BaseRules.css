@@ -1,0 +1,26 @@
+
+.FDLacrticalbig2 img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+
+
+.white {
+    color: #fff !important;
+}
+
+.Boldabonnerter {
+    font-weight: bold;
+}
+
+.redklikme {
+    background: #e00000;
+    padding: 12px 65px;
+    border-radius: 7px;
+}
+
+.Allerede {
+    color: #666 !important;
+}
